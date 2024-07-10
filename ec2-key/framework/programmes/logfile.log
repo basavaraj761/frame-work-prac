@@ -1,0 +1,6 @@
+2024-06-26 14:31:45,315 :DEBUG:test_logging_prac:Adebug staement is executed
+2024-06-26 14:31:45,315 :INFO:test_logging_prac:information statement
+2024-06-26 14:31:45,315 :DEBUG:test_logging_prac:Adebug staement is executed
+2024-06-26 14:31:45,316 :WARNING:test_logging_prac:something is in warning mode
+2024-06-26 14:31:45,316 :ERROR:test_logging_prac:Amajor error has happened
+2024-06-26 14:31:45,316 :CRITICAL:test_logging_prac:zritical Issue

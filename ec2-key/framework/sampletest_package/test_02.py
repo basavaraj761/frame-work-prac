@@ -1,8 +1,9 @@
 import pytest
 
 
-def test_sample_2_1():
-    print("rumming sample from 2")
+@pytest.mark.parametrize('username, pwd',[("basava","12345"), ("shiva","098765")])
+def test_sample_2_1(username, pwd):
+    print(username + " " + pwd)
 
 
 @pytest.mark.smoke
